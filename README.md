@@ -1,7 +1,7 @@
 # 👋 Hola, soy Sebastian
 
 🎓 Estudiante de programación
-💻 Interesado en desarrollo web y Python
+💻 Interesado en desarrollo web y solucion de problemas
 🚀 Aprendiendo cada día y construyendo proyectos
 
 ---
