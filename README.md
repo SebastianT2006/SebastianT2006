@@ -51,7 +51,7 @@
 ## 📫 Contacto
 
 * 📧 Email: torreslopezsebastian6@gmail.com
-* 💼 LinkedIn: [(tu perfil aquí)](https://www.linkedin.com/in/sebastian-torres-lopez-torres-lopez-b48088374/)
+* 💼 LinkedIn: [(Da click aqui)](https://www.linkedin.com/in/sebastian-torres-lopez-torres-lopez-b48088374/)
 
 ---
 
