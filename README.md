@@ -41,10 +41,11 @@
 
 ## 🚀 Proyectos destacados
 
-* 🔹 m1_python_actividad_1
-* 🔹 Portafolio
-* 🔹 Semana1
-* 🔹 Starboost
+* 🔹 InboxIQ
+* 🔹 RutaAvanzada
+* 🔹 Marte
+* 🔹 prueba_m3_javascript
+
 
 ---
 
