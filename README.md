@@ -8,7 +8,7 @@
 
 ## 🧠 Sobre mí
 
-* 📚 Actualmente aprendiendo: **Python, HTML y CSS**
+* 📚 Actualmente aprendiendo: **Python, HTML,CSS y Java**
 * 🎯 Objetivo: Convertirme en desarrollador full stack
 * ⚡ Me gusta aprender creando proyectos reales
 
