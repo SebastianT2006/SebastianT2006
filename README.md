@@ -25,17 +25,12 @@
 
 ---
 
-## 📊 Mis estadísticas
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SebastianT2006\&show_icons=true\&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianT2006\&layout=compact\&theme=tokyonight)
 
 ---
 
-## 🔥 Racha de contribuciones
-
-![GitHub Streak](https://streak-stats.demolab.com?user=SebastianT2006\&theme=tokyonight)
 
 ---
 
@@ -43,8 +38,8 @@
 
 * 🔹 InboxIQ
 * 🔹 RutaAvanzada
-* 🔹 Marte
-* 🔹 prueba_m3_javascript
+* 🔹 laboratio_springboot
+* 🔹 Meetbox
 
 
 ---
@@ -52,7 +47,7 @@
 ## 📫 Contacto
 
 * 📧 Email: torreslopezsebastian6@gmail.com
-* 💼 LinkedIn: [(Da click aqui)](https://www.linkedin.com/in/sebastian-torres-lopez-torres-lopez-b48088374/)
+* 💼 LinkedIn: [(Da click aqui)](www.linkedin.com/in/sebastian-torres2)
 
 ---
 
