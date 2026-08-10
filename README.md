@@ -79,16 +79,13 @@ Recruitment process management system focused on managing candidates, vacancies 
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=SebastianT2006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
-    height="180"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianT2006&layout=compact&theme=tokyonight&hide_border=true&count_private=true" 
-    height="180"
-  />
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=SebastianT2006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianT2006&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+
+</div>
 
 ---
 
