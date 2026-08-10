@@ -1,76 +1,114 @@
-# 👋 Hola, soy Sebastian
+# Hi, I'm Sebastián Torres 👋
 
-🎓 Estudiante de programación
-💻 Interesado en desarrollo web y solucion de problemas
-🚀 Aprendiendo cada día y construyendo proyectos
+### Software Developer | Java & Full-Stack Development
 
----
+I'm a software developer focused on building practical and scalable applications.
+My main interests are **Java, Spring Boot, React, TypeScript, and web development**.
 
-## 🧠 Sobre mí
-
-* 📚 Actualmente aprendiendo: **Python, HTML,CSS y Java**
-* 🎯 Objetivo: Convertirme en desarrollador full stack
-* ⚡ Me gusta aprender creando proyectos reales
+I enjoy learning by building projects, solving problems, and exploring new technologies.
 
 ---
 
-## 🛠 Tecnologías
+## 🚀 About Me
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
----
-
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianT2006\&layout=compact\&theme=tokyonight)
+- 💻 Focused on **Java and Full-Stack Development**
+- ☕ Working with **Java & Spring Boot**
+- ⚛️ Building interfaces with **React & TypeScript**
+- 🌐 Experience with **HTML, CSS & JavaScript**
+- 🧠 Interested in software architecture, APIs and problem solving
+- 📚 Continuously learning and improving my development skills
+- 🤝 Open to collaborating on interesting projects
 
 ---
 
+## 🛠️ Technologies & Tools
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,python" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react" />
+</p>
+
+### Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,mysql,postgres" />
+</p>
 
 ---
 
-## 🚀 Proyectos destacados
+## 📂 My Projects
 
-* 🔹 InboxIQ
-* 🔹 RutaAvanzada
-* 🔹 laboratio_springboot
-* 🔹 Meetbox
+I organize my projects into repositories according to their context and purpose.
 
+| Repository | Description |
+|---|---|
+| 📚 **[Riwi_projects](https://github.com/SebastianT2006/Riwi_projects)** | Projects developed during my training at Riwi |
+| ☕ **[Java_projects](https://github.com/SebastianT2006/Java_projects)** | Java exercises, algorithms, OOP and backend projects |
+| 🌐 **[Web_projects](https://github.com/SebastianT2006/Web_projects)** | HTML, CSS, JavaScript and web development projects |
+| 🎓 **[University_projects](https://github.com/SebastianT2006/University_projects)** | Academic projects developed during my university studies |
+| 🚀 **[Personal_projects](https://github.com/SebastianT2006/Personal_projects)** | Personal projects and experiments |
 
----
-
-## 📫 Contacto
-
-* 📧 Email: torreslopezsebastian6@gmail.com
-* 💼 LinkedIn: [(Da click aqui)]([www.linkedin.com/in/sebastian-torres2/](https://www.linkedin.com/in/sebastian-torres2/))
-
----
-
-## 👀 Visitas al perfil
-
-![Visitor Count](https://komarev.com/ghpvc/?username=SebastianT2006\&color=blue)
+Each repository contains multiple projects organized into their own directories.
 
 ---
 
-✨ *Siempre aprendiendo y mejorando*
+## 🧩 Featured Projects
 
+### 🛡️ Centinela
 
-<!--
-**SebastianT2006/SebastianT2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Real-time transactional fraud detection platform designed for small and medium-sized fintech companies.
 
-Here are some ideas to get you started:
+**Technologies:** Java · Spring Boot · REST API · React
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📋 TalentBoard
+
+Recruitment process management system focused on managing candidates, vacancies and authentication.
+
+**Technologies:** Java · Spring Boot · JWT · Thymeleaf
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SebastianT2006&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianT2006&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🎯 Currently
+
+I'm currently focused on improving my skills in:
+
+- Java & Spring Boot
+- REST API development
+- React & TypeScript
+- Software architecture
+- Git & GitHub
+- Clean and maintainable code
+
+---
+
+## 📫 Connect With Me
+
+<p>
+  <a href="https://github.com/SebastianT2006">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Always learning. Always building. 🚀</i>
+</p>
