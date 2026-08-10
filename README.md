@@ -79,13 +79,18 @@ Recruitment process management system focused on managing candidates, vacancies 
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img height="180em" width="48%" src="https://github-stats-extended.vercel.app/api?username=SrLampi1001&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true" alt="GitHub Stats"/>
+  <img height="180em"  width="48%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=SrLampi1001&amp;layout=compact&amp;langs_count=8&amp;theme=tokyonight&amp;hide_border=true&amp;hide=html,css" alt="Top Languages"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=SebastianT2006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=SrLampi1001&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianT2006&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SrLampi1001&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Activity Graph"/>
+</p>
 
 ---
 
