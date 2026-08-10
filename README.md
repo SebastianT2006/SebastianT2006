@@ -77,19 +77,13 @@ Recruitment process management system focused on managing candidates, vacancies 
 
 ---
 
-## 📊 GitHub Stats
+### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-  <img height="180em" width="48%" src="https://github-stats-extended.vercel.app/api?username=SebastianT2006&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true" alt="GitHub Stats"/>
-  <img height="180em"  width="48%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=SebastianT2006&amp;layout=compact&amp;langs_count=8&amp;theme=tokyonight&amp;hide_border=true&amp;hide=html,css" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=SebastianT2006&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SebastianT2006&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Activity Graph"/>
+<a href="https://github.com/Santiagodxz">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SebastianT2006&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SebastianT2006&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
 
 ---
